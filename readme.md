@@ -1,4 +1,4 @@
-# Three.js Journey
+# Mixing Three.js with html elements
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
